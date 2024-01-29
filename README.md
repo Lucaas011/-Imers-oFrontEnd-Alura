@@ -1,1 +1,1 @@
-
+Repositório do curso "HTML, CSS e JS na Prática" da Alura, focando em estilo avançado, posicionamento, e uma breve introdução ao React.  Módulos Destacados:  Revisão: HTML, CSS, JS Estilo Avançado e Posicionamento Transformando Layouts Layout Flexbox e Grid Responsividade e Media Queries Manipulação do DOM com JS Breve Introdução ao React
